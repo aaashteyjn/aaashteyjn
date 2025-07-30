@@ -11,8 +11,8 @@
 - Python & Julia for simulations  
 
 📫 How to reach me:  
-- ✉️ [adobershteyjn@gmail.com]  
-<!-- 🔗 [ResearchGate Profile]  -->
+- ✉️ [adobershteyjn@gmail.com]
+- 🔗 [https://www.researchgate.net/profile/Alina-Dobershtein]
 
 <!--
 **aaashteyjn/aaashteyjn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
